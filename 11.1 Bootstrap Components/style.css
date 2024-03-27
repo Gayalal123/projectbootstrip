@@ -1,0 +1,45 @@
+body{
+  height: 100%;
+  width: 100%;
+}
+
+
+.van{
+  margin: auto;
+  display: block;
+  align-items: center;
+  justify-content: center;
+  width: 70%
+
+}
+.h2move{
+  text-align: left;
+}
+.rounded{
+display: flex;
+width: 70%;
+justify-content: center;
+align-items: center;
+margin: auto
+}
+.text-center{
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.button{
+  text-align: center;
+  align-items: center;
+}
+.heading22{
+  text-align: center;
+  align-items: center;
+  display: block;
+  margin: auto;
+}
+.text2034{
+  text-align:center;
+}
+
